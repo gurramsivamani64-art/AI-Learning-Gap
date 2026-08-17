@@ -1,0 +1,6 @@
+{
+  "name": "LearnPath AI",
+  "description": "Adaptive AI-powered learning journey and knowledge gap analyzer with interactive quizzes and personalized curriculum paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
